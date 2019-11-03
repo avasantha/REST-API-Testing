@@ -1,0 +1,36 @@
+{
+"phonebook" : {
+	"name":"CallHub QA Test", 
+	"description":"This is created through API testing"
+	},
+"John":{
+  "contact": "9995119940",
+  "mobile": "9995119940",
+  "phonebooks":"",
+  "last_name": "A",
+  "first_name": "John",
+  "country_code": "IN",
+  "email": "John@gmail.com",
+  "address": "Dayananda Layout",
+  "city": "Bangalore",
+  "state": "Karnataka",
+  "company_name": "IBM",
+  "company_website": "http://www.ibm.com/John/",
+  "job_title": "Project Manager"
+	  },
+"Michael":{
+  "contact": "9986219944",
+  "mobile": "9986219944",
+  "phonebooks":"",
+  "last_name": "M",
+  "first_name": "Michael",
+  "country_code": "IN",
+  "email": "Michael@gmail.com",
+  "address": "Whitefield",
+  "city": "Bangalore",
+  "state": "Karnataka",
+  "company_name": "IBM",
+  "company_website": "http://www.ibm.com/Michael/",
+  "job_title": "Project Manager"
+	  }
+}
